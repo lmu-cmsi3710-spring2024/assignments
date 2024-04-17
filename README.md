@@ -7,5 +7,5 @@ This repository hosts a public copy of the assignment write-ups for this course 
 - [Assignment 0221](./primitives.md) Pixel-level primitives and filters
 - [Assignment 0325a](./static-3d-scene.md) Static scene based on _our_ polygon mesh library
 - [Assignment 0325b](./matrix-library.md) <kbd>extended to 0403</kbd> _Our_ own matrix library
-- [Assignment 0410](./lights-camera.md) <kbd>extended to 0417</kbd> _Our_ lights, _our_ camera…
-- [Assignment 0429](./action.md) …_Your_ action!
+- [Assignment 0410](./lights-camera.md) <kbd>extended to 0422</kbd> _Our_ lights, _our_ camera…
+- [Assignment 0429](./action.md) <kbd>extended to 0503</kbd> …_Your_ action!
